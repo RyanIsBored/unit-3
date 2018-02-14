@@ -15,5 +15,5 @@ for i in range(1,11):
 """
 
 #Count from 27 to 43 by 2s
-for i in range(27,44):
+for i in range(27,44,2):
     print(i)
