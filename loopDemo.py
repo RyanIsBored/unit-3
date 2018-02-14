@@ -22,12 +22,12 @@ for i in range(1,11):
     print(i)
 """
 
-"""
+
 i = 1
 while i<= 10:
     print(i)
     i += 1 #means add one to i
-"""
+
 
 """
 #Count from 27 to 43 by 2s
