@@ -5,6 +5,5 @@
 i=1
 
 while i<=10:
-    for ch in '*':
-        print(ch*i)
-        i=i+1
+    print('*'*i)
+    i=i+1
