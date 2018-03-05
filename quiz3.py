@@ -14,3 +14,7 @@ total=0
 for k in range(-100,1002,2):
     total=total+k
 print(total)
+
+text = input('Enter text: ')
+if not 'alpaca' in text:
+    text = input('Enter text: ')
