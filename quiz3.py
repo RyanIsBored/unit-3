@@ -9,4 +9,8 @@ while i<=-9:
 
 for j in range(50,14,-4):
     print(j)
-for k in range(-100,1000):
+
+total=0
+for k in range(-100,1000,2):
+    total=total+k
+    print(total)
